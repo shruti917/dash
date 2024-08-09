@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project_dash.git/static/css/main.4ac9de6e.css",
+    "main.js": "/project_dash.git/static/js/main.0de63dfe.js",
+    "static/media/avatar.jpg": "/project_dash.git/static/media/avatar.3ec89fdba6471031e56b.jpg",
+    "index.html": "/project_dash.git/index.html",
+    "main.4ac9de6e.css.map": "/project_dash.git/static/css/main.4ac9de6e.css.map",
+    "main.0de63dfe.js.map": "/project_dash.git/static/js/main.0de63dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac9de6e.css",
+    "static/js/main.0de63dfe.js"
+  ]
+}
